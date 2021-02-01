@@ -1,5 +1,5 @@
 class ACEX_Fortify_Presets {
-    class fortifyObjects {
+    class preset1 {
         displayName = "preset1";
         objects[] = {
             {"Land_BagBunker_Large_F",100},
