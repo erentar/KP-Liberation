@@ -1,7 +1,7 @@
 class ET {
 	class fnc {
 		class acexFortifyInit {
-			file = "acexFortifyInit.sqf";
+			file = "ACEX_Fortify\acexFortifyInit.sqf";
 			postInit = 1;
 		}
 	}
