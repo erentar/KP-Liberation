@@ -10,6 +10,6 @@ class ACEX_Fortify_Presets {
             {"Land_BagFence_Long_F"  , 10},
             {"Land_BagFence_Round_F" , 10},
             {"Land_BagFence_Short_F" , 10}
-        }
-    }
-} 
+        };
+    };
+};
