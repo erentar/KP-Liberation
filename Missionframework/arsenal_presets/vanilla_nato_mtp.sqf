@@ -52,7 +52,8 @@ GRLIB_arsenal_items = [
     "MineDetector",                                                 // Mine Detector
     "Rangefinder",                                                  // Rangefinder
     "ToolKit",                                                      // Toolkit
-    
+    "ACE_Fortify",                                                  // ACEX Fortify tool
+
     // Faction Specific Items
     "B_UavTerminal",                                                // UAV Terminal [NATO]
     "Laserdesignator",                                              // Laser Designator (Sand)
